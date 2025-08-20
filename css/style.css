@@ -1,0 +1,42 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    color: darkgreen;
+    font-family: 'Luckiest Guy', Arial, sans-serif ;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 50px;
+    text-decoration: underline;
+    text-align: center;
+    text-shadow: lightgreen 5px 2px;
+}
+
+h2{
+    color: forestgreen;
+    text-decoration: underline dotted green;
+    text-align: center;
+}
+
+.tables{
+    border: 3px solid darkgreen;
+    width: 650px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+thead{
+    color: whitesmoke;
+    background-color: green;
+}
+
+td{
+    border-bottom: 2px dotted darkgreen;
+}
+
+.tags{
+    font-family: monospace;
+    background-color: whitesmoke;
+}
+
