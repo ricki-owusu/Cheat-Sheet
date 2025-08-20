@@ -2,6 +2,7 @@ body{
     background-color: antiquewhite;
 }
 
+/*Headings Styling*/
 h1{
     color: darkgreen;
     font-family: 'Luckiest Guy', Arial, sans-serif ;
@@ -13,6 +14,13 @@ h1{
     text-shadow: lightgreen 5px 2px;
 }
 
+h2{
+    color: forestgreen;
+    text-decoration: underline dotted green;
+    text-align: center;
+}
+
+/*Nav Styling*/
 nav{
     text-align: center;
 }
@@ -25,12 +33,8 @@ a:hover{
     color: darkgreen;
 }
 
-h2{
-    color: forestgreen;
-    text-decoration: underline dotted green;
-    text-align: center;
-}
 
+/*Table Styling*/
 .tables{
     border: 3px solid darkgreen;
     width: 650px;
